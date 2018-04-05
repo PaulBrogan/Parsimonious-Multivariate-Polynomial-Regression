@@ -1,0 +1,17 @@
+Res^2,B1,B2,B3,B4,B5,B6
+0.3912984971271244,Generation.SNSP,-,-,-,-,-
+0.5914380987373743,Generation.SNSP,Source.Peat.MW,-,-,-,-
+0.6827976941210773,Generation.SNSP,Source.Peat.MW,Source.Coal.MW,-,-,-
+0.9050498080841348,Generation.SNSP,Source.Peat.MW,Source.Coal.MW,Generation.Renewable.MW,-,-
+0.8932381723241066,Source.Peat.MW,Source.Coal.MW,Generation.Renewable.MW,-,-,-
+0.9229443774571728,Source.Peat.MW,Source.Coal.MW,Generation.Renewable.MW,Source.Gas.MW,-,-
+0.9686991917306557,Source.Peat.MW,Source.Coal.MW,Generation.Renewable.MW,Source.Gas.MW,CO2.Rate.kg.hr,-
+0.9661110539032723,Source.Peat.MW,Generation.Renewable.MW,Source.Gas.MW,CO2.Rate.kg.hr,-,-
+0.9963403454149717,Source.Peat.MW,Generation.Renewable.MW,Source.Gas.MW,CO2.Rate.kg.hr,Generation.Total.MW,-
+0.9963144084056561,Generation.Renewable.MW,Source.Gas.MW,CO2.Rate.kg.hr,Generation.Total.MW,-,-
+0.9964199213218262,Generation.Renewable.MW,Source.Gas.MW,CO2.Rate.kg.hr,Generation.Total.MW,Source.Oil.MW,-
+0.99634728734529,Generation.Renewable.MW,CO2.Rate.kg.hr,Generation.Total.MW,Source.Oil.MW,-,-
+0.9964534886823785,Generation.Renewable.MW,CO2.Rate.kg.hr,Generation.Total.MW,Source.Oil.MW,Wind.Total.MW,-
+0.9964534255631456,CO2.Rate.kg.hr,Generation.Total.MW,Source.Oil.MW,Wind.Total.MW,-,-
+0.996511018397629,CO2.Rate.kg.hr,Generation.Total.MW,Source.Oil.MW,Wind.Total.MW,Generation.SNSP,-
+0.9966861273122625,CO2.Rate.kg.hr,Generation.Total.MW,Source.Oil.MW,Wind.Total.MW,Generation.SNSP,Source.Gas.MW
